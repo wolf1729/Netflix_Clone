@@ -1,5 +1,4 @@
 #**Netflix App Clone**
-The BMI Calculator App is a simple Flutter application that helps users calculate their Body Mass Index (BMI). The app provides an easy-to-use interface to input the user's weight and height and then calculates their BMI.
 
 #**Features**
 Its just a UI clone right now without any backend support made using flutter.
